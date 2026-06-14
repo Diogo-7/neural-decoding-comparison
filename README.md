@@ -115,4 +115,4 @@ to the Paton Lab.
 - **Code** (notebooks): MIT License (see `LICENSE`).
 - **Figures and data** (`figures/`): Creative Commons Attribution 4.0 (CC-BY-4.0).
 
-If you use this material, please cite via the DOI (see `CITATION.cff` / the Zenodo record).
+If you use this material, please cite this repository (see `CITATION.cff`).
