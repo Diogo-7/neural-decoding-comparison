@@ -1,0 +1,353 @@
+region,animal,session,n_neurons,contrast,alignment,peak_BAC
+BG,1_CoteDor,R2,82,Push / Pull,Init,0.9302
+BG,1_CoteDor,R2,82,Push / Pull,Reach,0.811
+BG,1_CoteDor,R2,82,Dominant,Init,0.7721
+BG,1_CoteDor,R2,82,Dominant,Reach,0.9384
+BG,1_CoteDor,R2,82,Center,Init,0.712
+BG,1_CoteDor,R2,82,Center,Reach,0.7757
+BG,1_CoteDor,R2,82,Non-dominant,Init,0.7536
+BG,1_CoteDor,R2,82,Non-dominant,Reach,0.938
+BG,1_CoteDor,R3,57,Push / Pull,Init,0.6802
+BG,1_CoteDor,R3,57,Push / Pull,Reach,0.797
+BG,1_CoteDor,R3,57,Dominant,Init,0.8103
+BG,1_CoteDor,R3,57,Dominant,Reach,0.8902
+BG,1_CoteDor,R3,57,Center,Init,0.7675
+BG,1_CoteDor,R3,57,Center,Reach,0.7714
+BG,1_CoteDor,R3,57,Non-dominant,Init,0.7147
+BG,1_CoteDor,R3,57,Non-dominant,Reach,0.786
+BG,1_CoteDor,R4,108,Push / Pull,Init,0.9607
+BG,1_CoteDor,R4,108,Push / Pull,Reach,0.8426
+BG,1_CoteDor,R4,108,Dominant,Init,0.9481
+BG,1_CoteDor,R4,108,Dominant,Reach,0.9841
+BG,1_CoteDor,R4,108,Center,Init,0.8595
+BG,1_CoteDor,R4,108,Center,Reach,0.8384
+BG,1_CoteDor,R4,108,Non-dominant,Init,0.8908
+BG,1_CoteDor,R4,108,Non-dominant,Reach,0.9829
+BG,1_CoteDor,R6,141,Push / Pull,Init,0.9051
+BG,1_CoteDor,R6,141,Push / Pull,Reach,0.8651
+BG,1_CoteDor,R6,141,Dominant,Init,0.8682
+BG,1_CoteDor,R6,141,Dominant,Reach,0.9599
+BG,1_CoteDor,R6,141,Center,Init,0.8246
+BG,1_CoteDor,R6,141,Center,Reach,0.78
+BG,1_CoteDor,R6,141,Non-dominant,Init,0.8454
+BG,1_CoteDor,R6,141,Non-dominant,Reach,0.873
+BG,1_CoteDor,R7,102,Push / Pull,Init,0.8933
+BG,1_CoteDor,R7,102,Push / Pull,Reach,0.9006
+BG,1_CoteDor,R7,102,Dominant,Init,0.7269
+BG,1_CoteDor,R7,102,Dominant,Reach,0.9294
+BG,1_CoteDor,R7,102,Center,Init,0.7297
+BG,1_CoteDor,R7,102,Center,Reach,0.7792
+BG,1_CoteDor,R7,102,Non-dominant,Init,0.7096
+BG,1_CoteDor,R7,102,Non-dominant,Reach,0.8615
+BG,2_Lindt,R1,106,Push / Pull,Init,0.9236
+BG,2_Lindt,R1,106,Push / Pull,Reach,0.7889
+BG,2_Lindt,R1,106,Dominant,Init,0.9698
+BG,2_Lindt,R1,106,Dominant,Reach,0.9862
+BG,2_Lindt,R1,106,Center,Init,0.9367
+BG,2_Lindt,R1,106,Center,Reach,0.9827
+BG,2_Lindt,R1,106,Non-dominant,Init,0.9363
+BG,2_Lindt,R1,106,Non-dominant,Reach,0.976
+BG,2_Lindt,R2,104,Push / Pull,Init,0.9283
+BG,2_Lindt,R2,104,Push / Pull,Reach,0.809
+BG,2_Lindt,R2,104,Dominant,Init,0.9368
+BG,2_Lindt,R2,104,Dominant,Reach,0.9946
+BG,2_Lindt,R2,104,Center,Init,0.8805
+BG,2_Lindt,R2,104,Center,Reach,0.8802
+BG,2_Lindt,R2,104,Non-dominant,Init,0.8608
+BG,2_Lindt,R2,104,Non-dominant,Reach,0.918
+BG,2_Lindt,R3,182,Push / Pull,Init,0.917
+BG,2_Lindt,R3,182,Push / Pull,Reach,0.8091
+BG,2_Lindt,R3,182,Dominant,Init,0.9811
+BG,2_Lindt,R3,182,Dominant,Reach,1.0
+BG,2_Lindt,R3,182,Center,Init,0.9323
+BG,2_Lindt,R3,182,Center,Reach,0.9406
+BG,2_Lindt,R3,182,Non-dominant,Init,0.9778
+BG,2_Lindt,R3,182,Non-dominant,Reach,1.0
+BG,2_Lindt,R4,136,Push / Pull,Init,0.8589
+BG,2_Lindt,R4,136,Push / Pull,Reach,0.9646
+BG,2_Lindt,R4,136,Dominant,Init,0.9445
+BG,2_Lindt,R4,136,Dominant,Reach,0.9592
+BG,2_Lindt,R4,136,Center,Init,0.8731
+BG,2_Lindt,R4,136,Center,Reach,0.8578
+BG,2_Lindt,R4,136,Non-dominant,Init,0.9258
+BG,2_Lindt,R4,136,Non-dominant,Reach,0.9325
+BG,2_Lindt,R5,85,Push / Pull,Init,0.874
+BG,2_Lindt,R5,85,Push / Pull,Reach,0.863
+BG,2_Lindt,R5,85,Dominant,Init,0.8109
+BG,2_Lindt,R5,85,Dominant,Reach,0.9918
+BG,2_Lindt,R5,85,Center,Init,0.937
+BG,2_Lindt,R5,85,Center,Reach,0.99
+BG,2_Lindt,R5,85,Non-dominant,Init,0.7235
+BG,2_Lindt,R5,85,Non-dominant,Reach,0.9729
+BG,2_Lindt,R6,78,Push / Pull,Init,0.9279
+BG,2_Lindt,R6,78,Push / Pull,Reach,0.7703
+BG,2_Lindt,R6,78,Dominant,Init,0.6676
+BG,2_Lindt,R6,78,Dominant,Reach,0.917
+BG,2_Lindt,R6,78,Center,Init,0.7291
+BG,2_Lindt,R6,78,Center,Reach,0.785
+BG,2_Lindt,R6,78,Non-dominant,Init,0.7481
+BG,2_Lindt,R6,78,Non-dominant,Reach,0.8728
+BG,2_Lindt,R7,71,Push / Pull,Init,0.9405
+BG,2_Lindt,R7,71,Push / Pull,Reach,0.8459
+BG,2_Lindt,R7,71,Dominant,Init,0.9297
+BG,2_Lindt,R7,71,Dominant,Reach,0.9738
+BG,2_Lindt,R7,71,Center,Init,0.7918
+BG,2_Lindt,R7,71,Center,Reach,0.8347
+BG,2_Lindt,R7,71,Non-dominant,Init,0.9139
+BG,2_Lindt,R7,71,Non-dominant,Reach,0.9368
+BG,3_Toblerone,R1,86,Push / Pull,Init,0.933
+BG,3_Toblerone,R1,86,Push / Pull,Reach,0.8982
+BG,3_Toblerone,R1,86,Dominant,Init,0.9458
+BG,3_Toblerone,R1,86,Dominant,Reach,0.9507
+BG,3_Toblerone,R1,86,Center,Init,0.882
+BG,3_Toblerone,R1,86,Center,Reach,0.894
+BG,3_Toblerone,R1,86,Non-dominant,Init,0.9463
+BG,3_Toblerone,R1,86,Non-dominant,Reach,0.92
+BG,3_Toblerone,R5,57,Push / Pull,Init,0.5709
+BG,3_Toblerone,R5,57,Push / Pull,Reach,0.8931
+BG,3_Toblerone,R5,57,Dominant,Init,0.7296
+BG,3_Toblerone,R5,57,Dominant,Reach,0.7
+BG,3_Toblerone,R5,57,Center,Init,0.766
+BG,3_Toblerone,R5,57,Center,Reach,0.745
+BG,3_Toblerone,R5,57,Non-dominant,Init,0.7461
+BG,3_Toblerone,R5,57,Non-dominant,Reach,0.7908
+BG,4_Milka,R1,62,Push / Pull,Init,0.8757
+BG,4_Milka,R1,62,Push / Pull,Reach,0.783
+BG,4_Milka,R1,62,Dominant,Init,0.7988
+BG,4_Milka,R1,62,Dominant,Reach,0.751
+BG,4_Milka,R1,62,Center,Init,0.7416
+BG,4_Milka,R1,62,Center,Reach,0.6591
+BG,4_Milka,R1,62,Non-dominant,Init,0.6717
+BG,4_Milka,R1,62,Non-dominant,Reach,0.6771
+BG,4_Milka,R4,133,Push / Pull,Init,0.8955
+BG,4_Milka,R4,133,Push / Pull,Reach,0.7805
+BG,4_Milka,R4,133,Dominant,Init,0.9078
+BG,4_Milka,R4,133,Dominant,Reach,0.9669
+BG,4_Milka,R4,133,Center,Init,0.8096
+BG,4_Milka,R4,133,Center,Reach,0.8314
+BG,4_Milka,R4,133,Non-dominant,Init,0.8123
+BG,4_Milka,R4,133,Non-dominant,Reach,0.9181
+BG,4_Milka,R5,59,Push / Pull,Init,0.8525
+BG,4_Milka,R5,59,Push / Pull,Reach,0.7506
+BG,4_Milka,R5,59,Dominant,Init,0.8965
+BG,4_Milka,R5,59,Dominant,Reach,0.885
+BG,4_Milka,R5,59,Center,Init,0.7952
+BG,4_Milka,R5,59,Center,Reach,0.7359
+BG,4_Milka,R5,59,Non-dominant,Init,0.7979
+BG,4_Milka,R5,59,Non-dominant,Reach,0.7475
+BG,4_Milka,R6,44,Push / Pull,Init,0.9199
+BG,4_Milka,R6,44,Push / Pull,Reach,0.7701
+BG,4_Milka,R6,44,Dominant,Init,0.8416
+BG,4_Milka,R6,44,Dominant,Reach,0.7508
+BG,4_Milka,R6,44,Center,Init,0.7333
+BG,4_Milka,R6,44,Center,Reach,0.8069
+BG,4_Milka,R6,44,Non-dominant,Init,0.8031
+BG,4_Milka,R6,44,Non-dominant,Reach,0.671
+BG,5_FerreroRocher,R1,48,Push / Pull,Init,0.9248
+BG,5_FerreroRocher,R1,48,Push / Pull,Reach,0.6928
+BG,5_FerreroRocher,R1,48,Dominant,Init,0.9149
+BG,5_FerreroRocher,R1,48,Dominant,Reach,0.9906
+BG,5_FerreroRocher,R1,48,Center,Init,0.7244
+BG,5_FerreroRocher,R1,48,Center,Reach,0.7809
+BG,5_FerreroRocher,R1,48,Non-dominant,Init,0.8354
+BG,5_FerreroRocher,R1,48,Non-dominant,Reach,0.8558
+BG,5_FerreroRocher,R4,125,Push / Pull,Init,0.8871
+BG,5_FerreroRocher,R4,125,Push / Pull,Reach,0.8902
+BG,5_FerreroRocher,R4,125,Dominant,Init,0.9278
+BG,5_FerreroRocher,R4,125,Dominant,Reach,0.9987
+BG,5_FerreroRocher,R4,125,Center,Init,0.8725
+BG,5_FerreroRocher,R4,125,Center,Reach,0.9581
+BG,5_FerreroRocher,R4,125,Non-dominant,Init,0.9634
+BG,5_FerreroRocher,R4,125,Non-dominant,Reach,0.992
+BG,5_FerreroRocher,R5,26,Push / Pull,Init,0.9085
+BG,5_FerreroRocher,R5,26,Push / Pull,Reach,0.8936
+BG,5_FerreroRocher,R5,26,Dominant,Init,0.9695
+BG,5_FerreroRocher,R5,26,Dominant,Reach,1.0
+BG,5_FerreroRocher,R5,26,Center,Init,0.9086
+BG,5_FerreroRocher,R5,26,Center,Reach,0.9278
+BG,5_FerreroRocher,R5,26,Non-dominant,Init,0.8967
+BG,5_FerreroRocher,R5,26,Non-dominant,Reach,0.9011
+BG,5_FerreroRocher,R6,64,Push / Pull,Init,0.9346
+BG,5_FerreroRocher,R6,64,Push / Pull,Reach,0.8027
+BG,5_FerreroRocher,R6,64,Dominant,Init,0.9803
+BG,5_FerreroRocher,R6,64,Dominant,Reach,1.0
+BG,5_FerreroRocher,R6,64,Center,Init,0.9622
+BG,5_FerreroRocher,R6,64,Center,Reach,0.9402
+BG,5_FerreroRocher,R6,64,Non-dominant,Init,0.9464
+BG,5_FerreroRocher,R6,64,Non-dominant,Reach,0.9734
+CB,1_CoteDor,R1,82,Push / Pull,Init,0.8058
+CB,1_CoteDor,R1,82,Push / Pull,Reach,0.8956
+CB,1_CoteDor,R1,82,Dominant,Init,0.7906
+CB,1_CoteDor,R1,82,Dominant,Reach,0.8647
+CB,1_CoteDor,R1,82,Center,Init,0.6761
+CB,1_CoteDor,R1,82,Center,Reach,0.7467
+CB,1_CoteDor,R1,82,Non-dominant,Init,0.7711
+CB,1_CoteDor,R1,82,Non-dominant,Reach,0.7909
+CB,1_CoteDor,R4,35,Push / Pull,Init,0.9574
+CB,1_CoteDor,R4,35,Push / Pull,Reach,0.9129
+CB,1_CoteDor,R4,35,Dominant,Init,0.8584
+CB,1_CoteDor,R4,35,Dominant,Reach,0.94
+CB,1_CoteDor,R4,35,Center,Init,0.7996
+CB,1_CoteDor,R4,35,Center,Reach,0.7984
+CB,1_CoteDor,R4,35,Non-dominant,Init,0.8285
+CB,1_CoteDor,R4,35,Non-dominant,Reach,0.9213
+CB,1_CoteDor,R5,101,Push / Pull,Init,0.9295
+CB,1_CoteDor,R5,101,Push / Pull,Reach,0.9252
+CB,1_CoteDor,R5,101,Dominant,Init,0.8488
+CB,1_CoteDor,R5,101,Dominant,Reach,0.9741
+CB,1_CoteDor,R5,101,Center,Init,0.7879
+CB,1_CoteDor,R5,101,Center,Reach,0.9453
+CB,1_CoteDor,R5,101,Non-dominant,Init,0.8125
+CB,1_CoteDor,R5,101,Non-dominant,Reach,0.9502
+CB,1_CoteDor,R6,91,Push / Pull,Init,0.8865
+CB,1_CoteDor,R6,91,Push / Pull,Reach,0.8324
+CB,1_CoteDor,R6,91,Dominant,Init,0.9151
+CB,1_CoteDor,R6,91,Dominant,Reach,0.9541
+CB,1_CoteDor,R6,91,Center,Init,0.7806
+CB,1_CoteDor,R6,91,Center,Reach,0.7801
+CB,1_CoteDor,R6,91,Non-dominant,Init,0.8344
+CB,1_CoteDor,R6,91,Non-dominant,Reach,0.9428
+CB,1_CoteDor,R7,73,Push / Pull,Init,0.9094
+CB,1_CoteDor,R7,73,Push / Pull,Reach,0.9391
+CB,1_CoteDor,R7,73,Dominant,Init,0.8102
+CB,1_CoteDor,R7,73,Dominant,Reach,0.9647
+CB,1_CoteDor,R7,73,Center,Init,0.7741
+CB,1_CoteDor,R7,73,Center,Reach,0.7787
+CB,1_CoteDor,R7,73,Non-dominant,Init,0.7396
+CB,1_CoteDor,R7,73,Non-dominant,Reach,0.9278
+CB,2_Lindt,R1,19,Push / Pull,Init,0.7887
+CB,2_Lindt,R1,19,Push / Pull,Reach,0.7974
+CB,2_Lindt,R1,19,Dominant,Init,0.8082
+CB,2_Lindt,R1,19,Dominant,Reach,0.875
+CB,2_Lindt,R1,19,Center,Init,0.7635
+CB,2_Lindt,R1,19,Center,Reach,0.8277
+CB,2_Lindt,R1,19,Non-dominant,Init,0.753
+CB,2_Lindt,R1,19,Non-dominant,Reach,0.9415
+CB,2_Lindt,R2,38,Push / Pull,Init,0.8186
+CB,2_Lindt,R2,38,Push / Pull,Reach,0.7325
+CB,2_Lindt,R2,38,Dominant,Init,0.9085
+CB,2_Lindt,R2,38,Dominant,Reach,0.9618
+CB,2_Lindt,R2,38,Center,Init,0.7829
+CB,2_Lindt,R2,38,Center,Reach,0.8069
+CB,2_Lindt,R2,38,Non-dominant,Init,0.8687
+CB,2_Lindt,R2,38,Non-dominant,Reach,0.8263
+CB,2_Lindt,R3,83,Push / Pull,Init,0.8503
+CB,2_Lindt,R3,83,Push / Pull,Reach,0.8213
+CB,2_Lindt,R3,83,Dominant,Init,0.8829
+CB,2_Lindt,R3,83,Dominant,Reach,0.9676
+CB,2_Lindt,R3,83,Center,Init,0.801
+CB,2_Lindt,R3,83,Center,Reach,0.8588
+CB,2_Lindt,R3,83,Non-dominant,Init,0.9078
+CB,2_Lindt,R3,83,Non-dominant,Reach,0.9533
+CB,2_Lindt,R4,46,Push / Pull,Init,0.8133
+CB,2_Lindt,R4,46,Push / Pull,Reach,0.8904
+CB,2_Lindt,R4,46,Dominant,Init,0.9723
+CB,2_Lindt,R4,46,Dominant,Reach,0.9819
+CB,2_Lindt,R4,46,Center,Init,0.8622
+CB,2_Lindt,R4,46,Center,Reach,0.8637
+CB,2_Lindt,R4,46,Non-dominant,Init,0.9279
+CB,2_Lindt,R4,46,Non-dominant,Reach,0.868
+CB,2_Lindt,R5,85,Push / Pull,Init,0.9121
+CB,2_Lindt,R5,85,Push / Pull,Reach,0.8518
+CB,2_Lindt,R5,85,Dominant,Init,0.8062
+CB,2_Lindt,R5,85,Dominant,Reach,0.9984
+CB,2_Lindt,R5,85,Center,Init,0.9318
+CB,2_Lindt,R5,85,Center,Reach,
+CB,2_Lindt,R5,85,Non-dominant,Init,0.7594
+CB,2_Lindt,R5,85,Non-dominant,Reach,0.9875
+CB,2_Lindt,R6,81,Push / Pull,Init,0.8802
+CB,2_Lindt,R6,81,Push / Pull,Reach,0.9458
+CB,2_Lindt,R6,81,Dominant,Init,0.7974
+CB,2_Lindt,R6,81,Dominant,Reach,0.9216
+CB,2_Lindt,R6,81,Center,Init,0.7973
+CB,2_Lindt,R6,81,Center,Reach,0.8333
+CB,2_Lindt,R6,81,Non-dominant,Init,0.8144
+CB,2_Lindt,R6,81,Non-dominant,Reach,0.96
+CB,2_Lindt,R7,58,Push / Pull,Init,0.916
+CB,2_Lindt,R7,58,Push / Pull,Reach,0.9027
+CB,2_Lindt,R7,58,Dominant,Init,0.8762
+CB,2_Lindt,R7,58,Dominant,Reach,0.8763
+CB,2_Lindt,R7,58,Center,Init,0.8352
+CB,2_Lindt,R7,58,Center,Reach,0.7417
+CB,2_Lindt,R7,58,Non-dominant,Init,0.9635
+CB,2_Lindt,R7,58,Non-dominant,Reach,0.9444
+CB,3_Toblerone,R1,51,Push / Pull,Init,0.8683
+CB,3_Toblerone,R1,51,Push / Pull,Reach,0.9337
+CB,3_Toblerone,R1,51,Dominant,Init,0.866
+CB,3_Toblerone,R1,51,Dominant,Reach,0.9282
+CB,3_Toblerone,R1,51,Center,Init,0.8894
+CB,3_Toblerone,R1,51,Center,Reach,0.895
+CB,3_Toblerone,R1,51,Non-dominant,Init,0.8549
+CB,3_Toblerone,R1,51,Non-dominant,Reach,0.8393
+CB,3_Toblerone,R5,137,Push / Pull,Init,
+CB,3_Toblerone,R5,137,Push / Pull,Reach,0.899
+CB,3_Toblerone,R5,137,Dominant,Init,0.7546
+CB,3_Toblerone,R5,137,Dominant,Reach,
+CB,3_Toblerone,R5,137,Center,Init,0.7139
+CB,3_Toblerone,R5,137,Center,Reach,0.7744
+CB,3_Toblerone,R5,137,Non-dominant,Init,0.7794
+CB,3_Toblerone,R5,137,Non-dominant,Reach,0.7783
+CB,4_Milka,R1,36,Push / Pull,Init,0.8786
+CB,4_Milka,R1,36,Push / Pull,Reach,0.8763
+CB,4_Milka,R1,36,Dominant,Init,0.882
+CB,4_Milka,R1,36,Dominant,Reach,0.839
+CB,4_Milka,R1,36,Center,Init,0.7835
+CB,4_Milka,R1,36,Center,Reach,0.7094
+CB,4_Milka,R1,36,Non-dominant,Init,0.6955
+CB,4_Milka,R1,36,Non-dominant,Reach,0.6612
+CB,4_Milka,R4,53,Push / Pull,Init,0.8293
+CB,4_Milka,R4,53,Push / Pull,Reach,0.752
+CB,4_Milka,R4,53,Dominant,Init,0.9137
+CB,4_Milka,R4,53,Dominant,Reach,0.9818
+CB,4_Milka,R4,53,Center,Init,0.7697
+CB,4_Milka,R4,53,Center,Reach,0.8349
+CB,4_Milka,R4,53,Non-dominant,Init,0.7963
+CB,4_Milka,R4,53,Non-dominant,Reach,0.8588
+CB,4_Milka,R5,50,Push / Pull,Init,0.7998
+CB,4_Milka,R5,50,Push / Pull,Reach,0.834
+CB,4_Milka,R5,50,Dominant,Init,0.8827
+CB,4_Milka,R5,50,Dominant,Reach,0.7793
+CB,4_Milka,R5,50,Center,Init,0.8215
+CB,4_Milka,R5,50,Center,Reach,0.7782
+CB,4_Milka,R5,50,Non-dominant,Init,0.7364
+CB,4_Milka,R5,50,Non-dominant,Reach,0.7455
+CB,4_Milka,R6,53,Push / Pull,Init,0.8838
+CB,4_Milka,R6,53,Push / Pull,Reach,0.7555
+CB,4_Milka,R6,53,Dominant,Init,0.7037
+CB,4_Milka,R6,53,Dominant,Reach,0.7824
+CB,4_Milka,R6,53,Center,Init,0.6688
+CB,4_Milka,R6,53,Center,Reach,0.6975
+CB,4_Milka,R6,53,Non-dominant,Init,0.7221
+CB,4_Milka,R6,53,Non-dominant,Reach,
+CB,5_FerreroRocher,R1,67,Push / Pull,Init,0.9573
+CB,5_FerreroRocher,R1,67,Push / Pull,Reach,0.8505
+CB,5_FerreroRocher,R1,67,Dominant,Init,0.9938
+CB,5_FerreroRocher,R1,67,Dominant,Reach,1.0
+CB,5_FerreroRocher,R1,67,Center,Init,0.8941
+CB,5_FerreroRocher,R1,67,Center,Reach,0.9615
+CB,5_FerreroRocher,R1,67,Non-dominant,Init,0.9346
+CB,5_FerreroRocher,R1,67,Non-dominant,Reach,0.9878
+CB,5_FerreroRocher,R4,82,Push / Pull,Init,0.8764
+CB,5_FerreroRocher,R4,82,Push / Pull,Reach,0.9061
+CB,5_FerreroRocher,R4,82,Dominant,Init,0.8801
+CB,5_FerreroRocher,R4,82,Dominant,Reach,0.9753
+CB,5_FerreroRocher,R4,82,Center,Init,0.8175
+CB,5_FerreroRocher,R4,82,Center,Reach,0.8736
+CB,5_FerreroRocher,R4,82,Non-dominant,Init,0.8404
+CB,5_FerreroRocher,R4,82,Non-dominant,Reach,0.9407
+CB,5_FerreroRocher,R5,55,Push / Pull,Init,0.9511
+CB,5_FerreroRocher,R5,55,Push / Pull,Reach,0.9706
+CB,5_FerreroRocher,R5,55,Dominant,Init,0.972
+CB,5_FerreroRocher,R5,55,Dominant,Reach,0.9876
+CB,5_FerreroRocher,R5,55,Center,Init,0.9131
+CB,5_FerreroRocher,R5,55,Center,Reach,0.8906
+CB,5_FerreroRocher,R5,55,Non-dominant,Init,0.8583
+CB,5_FerreroRocher,R5,55,Non-dominant,Reach,0.9083
+CB,5_FerreroRocher,R6,152,Push / Pull,Init,0.9493
+CB,5_FerreroRocher,R6,152,Push / Pull,Reach,
+CB,5_FerreroRocher,R6,152,Dominant,Init,0.9638
+CB,5_FerreroRocher,R6,152,Dominant,Reach,1.0
+CB,5_FerreroRocher,R6,152,Center,Init,0.8613
+CB,5_FerreroRocher,R6,152,Center,Reach,0.9052
+CB,5_FerreroRocher,R6,152,Non-dominant,Init,0.8493
+CB,5_FerreroRocher,R6,152,Non-dominant,Reach,0.9495

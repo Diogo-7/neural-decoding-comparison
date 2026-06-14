@@ -37,7 +37,6 @@ Performance is balanced accuracy (BAC), so chance is 0.5 for every contrast.
 decoding_pipeline.ipynb   Main analysis notebook (BG/CB decoding, Kalman, full comparison, robustness)
 cross_temporal.ipynb      Cross-temporal (temporal generalisation) decoding
 figures/                  All comparison figures
-data/                     Decoder outputs (.npz) — see "Data" below
 ```
 
 ### `decoding_pipeline.ipynb`
@@ -94,9 +93,7 @@ reads the `.npz` files directly.
 ## Data
 
 The raw electrophysiology (`.mat` files) is **not** included here, as it belongs
-to the Paton Lab. The decoder output files (`SVM_sess_BG.npz`, `SVM_sess_CB.npz`)
-are sufficient to reproduce all figures and statistics from stage 3 onward; place
-them in `data/`.
+to the Paton Lab.
 
 ---
 
