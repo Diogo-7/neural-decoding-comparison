@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or these figures, please cite as below."
+title: "A Comparison of Neural Decoding Methods"
+abstract: >-
+  Code and comparison figures for an Integrating Project (PIC) comparing four
+  neural decoders (SVM, LDA, Naive Bayes, and an adapted Kalman filter) on
+  Neuropixels recordings from the Basal Ganglia and Cerebellum of five mice
+  performing a lever push/pull reaching task.
+type: software
+authors:
+  - given-names: Diogo
+    family-names: Carvalho
+    affiliation: "Instituto Superior Técnico"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <- preenche se tiveres ORCID
+  - given-names: Teresa
+    family-names: "Serradas Duarte"
+    affiliation: "Paton Lab, Champalimaud Foundation"
+  - given-names: Simon
+    family-names: Zamora
+    affiliation: "Paton Lab, Champalimaud Foundation"
+keywords:
+  - neural decoding
+  - basal ganglia
+  - cerebellum
+  - Neuropixels
+  - support vector machine
+  - Kalman filter
+license: MIT
+version: "1.0"
+date-released: "2026-06-14"   # <- ajusta para a data da release
+repository-code: "https://github.com/Diogo-7/neural-decoding-comparison"
