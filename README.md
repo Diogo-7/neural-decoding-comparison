@@ -9,8 +9,8 @@ push/pull reaching task.
 **Author:** Diogo Carvalho (ist109988) — Instituto Superior Técnico
 **Supervisors:** Teresa Serradas Duarte, Simon Zamora — Paton Lab, Champalimaud Foundation
 
-This repository hosts the full set of comparison figures and the analysis code,
-referenced from the report under "Code and data availability".
+This repository hosts the analysis notebooks and the full set of comparison
+figures, referenced from the report under "Code and data availability".
 
 ---
 
@@ -34,22 +34,29 @@ Performance is balanced accuracy (BAC), so chance is 0.5 for every contrast.
 ## Repository structure
 
 ```
-code/        Analysis scripts
-figures/     All comparison figures
+decoding_pipeline.ipynb   Main analysis notebook (BG/CB decoding, Kalman, full comparison, robustness)
+cross_temporal.ipynb      Cross-temporal (temporal generalisation) decoding
+figures/                  All comparison figures
+data/                     Decoder outputs (.npz) — see "Data" below
 ```
 
-### code/
-| File | Purpose |
-|------|---------|
-| `decoder_mc_cv.py`        | Unified decoder implementations (SVM, LDA, NB, Kalman) with Monte-Carlo cross-validation |
-| `s06_SVM_perSess.py`      | BG decoding pipeline (per session) |
-| `s06_SVM_perSess_CB.py`   | CB decoding pipeline (per session) |
-| `add_kalman.py`           | Adds the Kalman decoder results to the saved `.npz` files |
-| `compare_all.py`          | Comprehensive comparison: per-session / per-animal / grand-average, BG vs CB, AUC, pointwise, latency, per-animal statistics |
-| `per_animal_robustness.py`| Robustness analyses (neuron-count control, neuron-dropping, cross-session reliability) |
-| `run_cross_temporal.py`   | Cross-temporal (temporal generalisation) decoding |
+### `decoding_pipeline.ipynb`
+The complete pipeline, one section per stage (run in order):
 
-### figures/
+| Section | Script | Purpose |
+|---------|--------|---------|
+| 1 | `s06_SVM_perSess.py`        | Per-session decoding (SVM, LDA, Naive Bayes) for the Basal Ganglia → `SVM_sess_BG.npz` |
+| 2 | `s06_SVM_perSess_CB.py`     | Same pipeline for the Cerebellum, with per-cell-type handling → `SVM_sess_CB.npz` |
+| 3 | `add_kalman.py`             | Adds the adapted binary Kalman decoder to the saved `.npz` files |
+| 4 | `compare_all.py` (robust)   | Comprehensive comparison: per-session / per-animal / grand-average, BG vs CB, AUC, pointwise (Wilcoxon + Cohen's d), latency, per-animal statistics, for all four decoders |
+| 5 | `per_animal_robustness.py`  | Neuron-count control, neuron-dropping, and cross-session reliability analyses |
+
+### `cross_temporal.ipynb`
+Temporal-generalisation decoding: a decoder trained at each time bin is tested,
+without retraining, at every other bin, producing a train-bin × test-bin BAC
+matrix per session for BG and CB.
+
+### `figures/`
 | Subfolder | Content |
 |-----------|---------|
 | `per_session/{BG,CB}/`    | One figure per recording session, all decoders and contrasts |
@@ -63,6 +70,33 @@ figures/     All comparison figures
 | `neuron_dropping/`        | Neuron-dropping curves (BAC vs subsampled population size) |
 | `cross_temporal/`         | Temporal-generalisation matrices (train bin × test bin) |
 | `stats/`                  | CSV outputs of all statistical analyses |
+
+---
+
+## Running the notebooks
+
+The notebooks were developed with Python 3.9 and use `numpy`, `scipy`,
+`scikit-learn`, `pandas`, `matplotlib`, `h5py`, and `joblib`.
+
+Before running, set the data paths near the top of each script section:
+
+- `data/SVM_sess_BG.npz`, `data/SVM_sess_CB.npz` — saved decoder outputs.
+- `path/to/ephys_data` — the `ephys_and_behavior/mat_files` directory containing
+  the raw `.mat` files (only needed to regenerate the `.npz` from scratch).
+- `output/` — where figures and stats are written.
+
+Stages 1–2 produce the `.npz` files; stage 3 augments them with the Kalman
+decoder; stages 4–5 produce the figures and statistics. `cross_temporal.ipynb`
+reads the `.npz` files directly.
+
+---
+
+## Data
+
+The raw electrophysiology (`.mat` files) is **not** included here, as it belongs
+to the Paton Lab. The decoder output files (`SVM_sess_BG.npz`, `SVM_sess_CB.npz`)
+are sufficient to reproduce all figures and statistics from stage 3 onward; place
+them in `data/`.
 
 ---
 
@@ -81,7 +115,7 @@ figures/     All comparison figures
 
 ## License
 
-- **Code** (`code/`): MIT License (see `LICENSE`).
+- **Code** (notebooks): MIT License (see `LICENSE`).
 - **Figures and data** (`figures/`): Creative Commons Attribution 4.0 (CC-BY-4.0).
 
 If you use this material, please cite via the DOI (see `CITATION.cff` / the Zenodo record).

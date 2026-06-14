@@ -1,0 +1,257 @@
+region,animal,decoder,contrast,alignment,n_sessions,mean_peak_BAC,sem_peak_BAC,W_stat,p_value,above_chance
+BG,1_CoteDor,SVM,Push / Pull,Init,5,0.8739,0.0445,15.0,0.0312,True
+BG,1_CoteDor,SVM,Push / Pull,Reach,5,0.8432,0.0167,15.0,0.0312,True
+BG,1_CoteDor,SVM,Dominant,Init,5,0.8251,0.0344,15.0,0.0312,True
+BG,1_CoteDor,SVM,Dominant,Reach,5,0.9404,0.014,15.0,0.0312,True
+BG,1_CoteDor,SVM,Center,Init,5,0.7787,0.025,15.0,0.0312,True
+BG,1_CoteDor,SVM,Center,Reach,5,0.7889,0.0111,15.0,0.0312,True
+BG,1_CoteDor,SVM,Non-dominant,Init,5,0.7828,0.0325,15.0,0.0312,True
+BG,1_CoteDor,SVM,Non-dominant,Reach,5,0.8883,0.0302,15.0,0.0312,True
+BG,1_CoteDor,LDA,Push / Pull,Init,5,0.8346,0.0402,15.0,0.0312,True
+BG,1_CoteDor,LDA,Push / Pull,Reach,5,0.729,0.0171,15.0,0.0312,True
+BG,1_CoteDor,LDA,Dominant,Init,5,0.7306,0.0394,15.0,0.0312,True
+BG,1_CoteDor,LDA,Dominant,Reach,5,0.8474,0.0251,15.0,0.0312,True
+BG,1_CoteDor,LDA,Center,Init,5,0.6959,0.0198,15.0,0.0312,True
+BG,1_CoteDor,LDA,Center,Reach,5,0.7038,0.0141,15.0,0.0312,True
+BG,1_CoteDor,LDA,Non-dominant,Init,5,0.701,0.0213,15.0,0.0312,True
+BG,1_CoteDor,LDA,Non-dominant,Reach,5,0.7716,0.0213,15.0,0.0312,True
+BG,1_CoteDor,Naive Bayes,Push / Pull,Init,5,0.8853,0.0204,15.0,0.0312,True
+BG,1_CoteDor,Naive Bayes,Push / Pull,Reach,5,0.7357,0.0236,15.0,0.0312,True
+BG,1_CoteDor,Naive Bayes,Dominant,Init,5,0.7678,0.0257,15.0,0.0312,True
+BG,1_CoteDor,Naive Bayes,Dominant,Reach,5,0.859,0.016,15.0,0.0312,True
+BG,1_CoteDor,Naive Bayes,Center,Init,5,0.7168,0.0228,15.0,0.0312,True
+BG,1_CoteDor,Naive Bayes,Center,Reach,5,0.7131,0.013,15.0,0.0312,True
+BG,1_CoteDor,Naive Bayes,Non-dominant,Init,5,0.7367,0.0197,15.0,0.0312,True
+BG,1_CoteDor,Naive Bayes,Non-dominant,Reach,5,0.8082,0.0247,15.0,0.0312,True
+BG,1_CoteDor,Kalman,Push / Pull,Init,5,0.893,0.029,15.0,0.0312,True
+BG,1_CoteDor,Kalman,Push / Pull,Reach,5,0.8183,0.0174,15.0,0.0312,True
+BG,1_CoteDor,Kalman,Dominant,Init,5,0.8098,0.0231,15.0,0.0312,True
+BG,1_CoteDor,Kalman,Dominant,Reach,5,0.9116,0.0171,15.0,0.0312,True
+BG,1_CoteDor,Kalman,Center,Init,5,0.7585,0.0152,15.0,0.0312,True
+BG,1_CoteDor,Kalman,Center,Reach,5,0.7737,0.0132,15.0,0.0312,True
+BG,1_CoteDor,Kalman,Non-dominant,Init,5,0.7668,0.0298,15.0,0.0312,True
+BG,1_CoteDor,Kalman,Non-dominant,Reach,5,0.8681,0.0255,15.0,0.0312,True
+BG,2_Lindt,SVM,Push / Pull,Init,7,0.91,0.0108,28.0,0.0078,True
+BG,2_Lindt,SVM,Push / Pull,Reach,7,0.8358,0.0228,28.0,0.0078,True
+BG,2_Lindt,SVM,Dominant,Init,7,0.8915,0.0397,28.0,0.0078,True
+BG,2_Lindt,SVM,Dominant,Reach,7,0.9746,0.0101,28.0,0.0078,True
+BG,2_Lindt,SVM,Center,Init,7,0.8686,0.0282,28.0,0.0078,True
+BG,2_Lindt,SVM,Center,Reach,7,0.8959,0.0272,28.0,0.0078,True
+BG,2_Lindt,SVM,Non-dominant,Init,7,0.8694,0.0342,28.0,0.0078,True
+BG,2_Lindt,SVM,Non-dominant,Reach,7,0.9442,0.0149,28.0,0.0078,True
+BG,2_Lindt,LDA,Push / Pull,Init,7,0.8543,0.0218,28.0,0.0078,True
+BG,2_Lindt,LDA,Push / Pull,Reach,7,0.7375,0.021,28.0,0.0078,True
+BG,2_Lindt,LDA,Dominant,Init,7,0.7708,0.0428,28.0,0.0078,True
+BG,2_Lindt,LDA,Dominant,Reach,7,0.8918,0.0106,28.0,0.0078,True
+BG,2_Lindt,LDA,Center,Init,7,0.7382,0.0207,28.0,0.0078,True
+BG,2_Lindt,LDA,Center,Reach,7,0.7888,0.0261,28.0,0.0078,True
+BG,2_Lindt,LDA,Non-dominant,Init,7,0.7589,0.0391,28.0,0.0078,True
+BG,2_Lindt,LDA,Non-dominant,Reach,7,0.8407,0.0239,28.0,0.0078,True
+BG,2_Lindt,Naive Bayes,Push / Pull,Init,7,0.8699,0.0163,28.0,0.0078,True
+BG,2_Lindt,Naive Bayes,Push / Pull,Reach,7,0.7477,0.0251,28.0,0.0078,True
+BG,2_Lindt,Naive Bayes,Dominant,Init,7,0.8692,0.0343,28.0,0.0078,True
+BG,2_Lindt,Naive Bayes,Dominant,Reach,7,0.9118,0.0136,28.0,0.0078,True
+BG,2_Lindt,Naive Bayes,Center,Init,7,0.8074,0.0225,28.0,0.0078,True
+BG,2_Lindt,Naive Bayes,Center,Reach,7,0.7726,0.0239,28.0,0.0078,True
+BG,2_Lindt,Naive Bayes,Non-dominant,Init,7,0.8164,0.0294,28.0,0.0078,True
+BG,2_Lindt,Naive Bayes,Non-dominant,Reach,7,0.8719,0.0155,28.0,0.0078,True
+BG,2_Lindt,Kalman,Push / Pull,Init,7,0.8897,0.009,28.0,0.0078,True
+BG,2_Lindt,Kalman,Push / Pull,Reach,7,0.8249,0.0193,28.0,0.0078,True
+BG,2_Lindt,Kalman,Dominant,Init,7,0.8841,0.0276,28.0,0.0078,True
+BG,2_Lindt,Kalman,Dominant,Reach,7,0.9264,0.0132,28.0,0.0078,True
+BG,2_Lindt,Kalman,Center,Init,7,0.8156,0.0134,28.0,0.0078,True
+BG,2_Lindt,Kalman,Center,Reach,6,0.8033,0.0271,21.0,0.0156,True
+BG,2_Lindt,Kalman,Non-dominant,Init,7,0.8208,0.0228,28.0,0.0078,True
+BG,2_Lindt,Kalman,Non-dominant,Reach,7,0.8893,0.0206,28.0,0.0078,True
+BG,4_Milka,SVM,Push / Pull,Init,5,0.7087,0.1588,10.0,0.3125,False
+BG,4_Milka,SVM,Push / Pull,Reach,5,0.6168,0.138,10.0,0.3125,False
+BG,4_Milka,SVM,Dominant,Init,5,0.8037,0.0543,15.0,0.0312,True
+BG,4_Milka,SVM,Dominant,Reach,5,0.6707,0.1544,10.0,0.3125,False
+BG,4_Milka,SVM,Center,Init,5,0.7571,0.0175,15.0,0.0312,True
+BG,4_Milka,SVM,Center,Reach,5,0.6067,0.1383,10.0,0.3125,False
+BG,4_Milka,SVM,Non-dominant,Init,5,0.7456,0.0326,15.0,0.0312,True
+BG,4_Milka,SVM,Non-dominant,Reach,5,0.6027,0.1406,10.0,0.3125,False
+BG,4_Milka,LDA,Push / Pull,Init,5,0.893,0.0263,15.0,0.0312,True
+BG,4_Milka,LDA,Push / Pull,Reach,5,0.7312,0.0613,15.0,0.0312,True
+BG,4_Milka,LDA,Dominant,Init,5,0.7777,0.0357,15.0,0.0312,True
+BG,4_Milka,LDA,Dominant,Reach,5,0.7817,0.0609,15.0,0.0312,True
+BG,4_Milka,LDA,Center,Init,5,0.7176,0.0192,15.0,0.0312,True
+BG,4_Milka,LDA,Center,Reach,5,0.6483,0.0362,10.0,0.0339,True
+BG,4_Milka,LDA,Non-dominant,Init,5,0.7347,0.0197,15.0,0.0312,True
+BG,4_Milka,LDA,Non-dominant,Reach,5,0.6522,0.0392,10.0,0.0339,True
+BG,4_Milka,Naive Bayes,Push / Pull,Init,5,0.8991,0.0237,15.0,0.0312,True
+BG,4_Milka,Naive Bayes,Push / Pull,Reach,5,0.7752,0.052,15.0,0.0312,True
+BG,4_Milka,Naive Bayes,Dominant,Init,5,0.7748,0.0398,15.0,0.0312,True
+BG,4_Milka,Naive Bayes,Dominant,Reach,5,0.8456,0.043,15.0,0.0312,True
+BG,4_Milka,Naive Bayes,Center,Init,5,0.6909,0.0114,15.0,0.0312,True
+BG,4_Milka,Naive Bayes,Center,Reach,5,0.6689,0.0474,10.0,0.0339,True
+BG,4_Milka,Naive Bayes,Non-dominant,Init,5,0.7404,0.0205,15.0,0.0312,True
+BG,4_Milka,Naive Bayes,Non-dominant,Reach,5,0.6875,0.0509,10.0,0.0339,True
+BG,4_Milka,Kalman,Push / Pull,Init,4,0.8581,0.0122,10.0,0.0625,False
+BG,4_Milka,Kalman,Push / Pull,Reach,4,0.7353,0.0333,10.0,0.0625,False
+BG,4_Milka,Kalman,Dominant,Init,4,0.8432,0.022,10.0,0.0625,False
+BG,4_Milka,Kalman,Dominant,Reach,4,0.8194,0.0251,10.0,0.0625,False
+BG,4_Milka,Kalman,Center,Init,5,0.7342,0.0113,15.0,0.0312,True
+BG,4_Milka,Kalman,Center,Reach,4,0.7142,0.0219,10.0,0.0625,False
+BG,4_Milka,Kalman,Non-dominant,Init,4,0.7615,0.013,10.0,0.0625,False
+BG,4_Milka,Kalman,Non-dominant,Reach,3,0.7177,0.023,6.0,0.125,False
+BG,5_FerreroRocher,SVM,Push / Pull,Init,4,0.9138,0.009,10.0,0.0625,False
+BG,5_FerreroRocher,SVM,Push / Pull,Reach,4,0.8198,0.041,10.0,0.0625,False
+BG,5_FerreroRocher,SVM,Dominant,Init,4,0.9481,0.0137,10.0,0.0625,False
+BG,5_FerreroRocher,SVM,Dominant,Reach,4,0.9973,0.002,10.0,0.0625,False
+BG,5_FerreroRocher,SVM,Center,Init,4,0.8669,0.0441,10.0,0.0625,False
+BG,5_FerreroRocher,SVM,Center,Reach,4,0.9017,0.0353,10.0,0.0625,False
+BG,5_FerreroRocher,SVM,Non-dominant,Init,4,0.9105,0.0249,10.0,0.0625,False
+BG,5_FerreroRocher,SVM,Non-dominant,Reach,4,0.9306,0.0275,10.0,0.0625,False
+BG,5_FerreroRocher,LDA,Push / Pull,Init,4,0.8521,0.0365,10.0,0.0625,False
+BG,5_FerreroRocher,LDA,Push / Pull,Reach,4,0.7947,0.0313,10.0,0.0625,False
+BG,5_FerreroRocher,LDA,Dominant,Init,4,0.9023,0.0197,10.0,0.0625,False
+BG,5_FerreroRocher,LDA,Dominant,Reach,4,0.9624,0.0208,10.0,0.0625,False
+BG,5_FerreroRocher,LDA,Center,Init,4,0.8006,0.0296,10.0,0.0625,False
+BG,5_FerreroRocher,LDA,Center,Reach,4,0.8614,0.0288,10.0,0.0625,False
+BG,5_FerreroRocher,LDA,Non-dominant,Init,4,0.8212,0.0094,10.0,0.0625,False
+BG,5_FerreroRocher,LDA,Non-dominant,Reach,4,0.8796,0.0208,10.0,0.0625,False
+BG,5_FerreroRocher,Naive Bayes,Push / Pull,Init,4,0.8767,0.0152,10.0,0.0625,False
+BG,5_FerreroRocher,Naive Bayes,Push / Pull,Reach,4,0.7937,0.0492,10.0,0.0625,False
+BG,5_FerreroRocher,Naive Bayes,Dominant,Init,4,0.9474,0.0166,10.0,0.0625,False
+BG,5_FerreroRocher,Naive Bayes,Dominant,Reach,4,0.9757,0.0119,10.0,0.0625,False
+BG,5_FerreroRocher,Naive Bayes,Center,Init,4,0.7958,0.0341,10.0,0.0625,False
+BG,5_FerreroRocher,Naive Bayes,Center,Reach,4,0.7878,0.0273,10.0,0.0625,False
+BG,5_FerreroRocher,Naive Bayes,Non-dominant,Init,4,0.8552,0.0167,10.0,0.0625,False
+BG,5_FerreroRocher,Naive Bayes,Non-dominant,Reach,4,0.8898,0.0202,10.0,0.0625,False
+BG,5_FerreroRocher,Kalman,Push / Pull,Init,4,0.9004,0.0175,10.0,0.0625,False
+BG,5_FerreroRocher,Kalman,Push / Pull,Reach,3,0.8225,0.0468,6.0,0.125,False
+BG,5_FerreroRocher,Kalman,Dominant,Init,4,0.9335,0.0138,10.0,0.0625,False
+BG,5_FerreroRocher,Kalman,Dominant,Reach,4,0.9909,0.0053,10.0,0.0625,False
+BG,5_FerreroRocher,Kalman,Center,Init,4,0.8043,0.0375,10.0,0.0625,False
+BG,5_FerreroRocher,Kalman,Center,Reach,4,0.8703,0.0339,10.0,0.0625,False
+BG,5_FerreroRocher,Kalman,Non-dominant,Init,4,0.8506,0.0059,10.0,0.0625,False
+BG,5_FerreroRocher,Kalman,Non-dominant,Reach,4,0.8773,0.0128,10.0,0.0625,False
+CB,1_CoteDor,SVM,Push / Pull,Init,5,0.8977,0.0231,15.0,0.0312,True
+CB,1_CoteDor,SVM,Push / Pull,Reach,5,0.9011,0.0166,15.0,0.0312,True
+CB,1_CoteDor,SVM,Dominant,Init,5,0.8447,0.0193,15.0,0.0312,True
+CB,1_CoteDor,SVM,Dominant,Reach,5,0.9395,0.0175,15.0,0.0312,True
+CB,1_CoteDor,SVM,Center,Init,5,0.7637,0.02,15.0,0.0312,True
+CB,1_CoteDor,SVM,Center,Reach,5,0.8098,0.0312,15.0,0.0312,True
+CB,1_CoteDor,SVM,Non-dominant,Init,5,0.7972,0.0162,15.0,0.0312,True
+CB,1_CoteDor,SVM,Non-dominant,Reach,5,0.9066,0.0263,15.0,0.0312,True
+CB,1_CoteDor,LDA,Push / Pull,Init,5,0.8751,0.0183,15.0,0.0312,True
+CB,1_CoteDor,LDA,Push / Pull,Reach,5,0.81,0.0257,15.0,0.0312,True
+CB,1_CoteDor,LDA,Dominant,Init,5,0.7887,0.0288,15.0,0.0312,True
+CB,1_CoteDor,LDA,Dominant,Reach,5,0.8548,0.0283,15.0,0.0312,True
+CB,1_CoteDor,LDA,Center,Init,5,0.7117,0.0183,15.0,0.0312,True
+CB,1_CoteDor,LDA,Center,Reach,5,0.7638,0.0378,15.0,0.0312,True
+CB,1_CoteDor,LDA,Non-dominant,Init,5,0.7509,0.026,15.0,0.0312,True
+CB,1_CoteDor,LDA,Non-dominant,Reach,5,0.8142,0.0271,15.0,0.0312,True
+CB,1_CoteDor,Naive Bayes,Push / Pull,Init,5,0.8766,0.0196,15.0,0.0312,True
+CB,1_CoteDor,Naive Bayes,Push / Pull,Reach,5,0.8478,0.0172,15.0,0.0312,True
+CB,1_CoteDor,Naive Bayes,Dominant,Init,5,0.7973,0.0177,15.0,0.0312,True
+CB,1_CoteDor,Naive Bayes,Dominant,Reach,5,0.8757,0.0354,15.0,0.0312,True
+CB,1_CoteDor,Naive Bayes,Center,Init,5,0.7203,0.0078,15.0,0.0312,True
+CB,1_CoteDor,Naive Bayes,Center,Reach,5,0.7777,0.0259,15.0,0.0312,True
+CB,1_CoteDor,Naive Bayes,Non-dominant,Init,5,0.754,0.0174,15.0,0.0312,True
+CB,1_CoteDor,Naive Bayes,Non-dominant,Reach,5,0.8501,0.0301,15.0,0.0312,True
+CB,1_CoteDor,Kalman,Push / Pull,Init,5,0.8797,0.0243,15.0,0.0312,True
+CB,1_CoteDor,Kalman,Push / Pull,Reach,5,0.8792,0.0176,15.0,0.0312,True
+CB,1_CoteDor,Kalman,Dominant,Init,5,0.8232,0.019,15.0,0.0312,True
+CB,1_CoteDor,Kalman,Dominant,Reach,5,0.9121,0.0241,15.0,0.0312,True
+CB,1_CoteDor,Kalman,Center,Init,5,0.7587,0.0164,15.0,0.0312,True
+CB,1_CoteDor,Kalman,Center,Reach,5,0.7963,0.0311,15.0,0.0312,True
+CB,1_CoteDor,Kalman,Non-dominant,Init,5,0.7811,0.0222,15.0,0.0312,True
+CB,1_CoteDor,Kalman,Non-dominant,Reach,5,0.8737,0.024,15.0,0.0312,True
+CB,2_Lindt,SVM,Push / Pull,Init,7,0.8542,0.0175,28.0,0.0078,True
+CB,2_Lindt,SVM,Push / Pull,Reach,7,0.8488,0.0251,28.0,0.0078,True
+CB,2_Lindt,SVM,Dominant,Init,7,0.8645,0.0226,28.0,0.0078,True
+CB,2_Lindt,SVM,Dominant,Reach,7,0.9404,0.0175,28.0,0.0078,True
+CB,2_Lindt,SVM,Center,Init,7,0.8248,0.0201,28.0,0.0078,True
+CB,2_Lindt,SVM,Center,Reach,6,0.822,0.0166,21.0,0.0156,True
+CB,2_Lindt,SVM,Non-dominant,Init,7,0.8564,0.029,28.0,0.0078,True
+CB,2_Lindt,SVM,Non-dominant,Reach,7,0.9259,0.02,28.0,0.0078,True
+CB,2_Lindt,LDA,Push / Pull,Init,7,0.8323,0.0163,28.0,0.0078,True
+CB,2_Lindt,LDA,Push / Pull,Reach,7,0.8112,0.0212,28.0,0.0078,True
+CB,2_Lindt,LDA,Dominant,Init,7,0.7919,0.046,28.0,0.0078,True
+CB,2_Lindt,LDA,Dominant,Reach,7,0.893,0.0203,28.0,0.0078,True
+CB,2_Lindt,LDA,Center,Init,7,0.7706,0.0215,28.0,0.0078,True
+CB,2_Lindt,LDA,Center,Reach,6,0.7886,0.0115,21.0,0.0156,True
+CB,2_Lindt,LDA,Non-dominant,Init,7,0.7846,0.0436,28.0,0.0078,True
+CB,2_Lindt,LDA,Non-dominant,Reach,7,0.8851,0.0139,28.0,0.0078,True
+CB,2_Lindt,Naive Bayes,Push / Pull,Init,7,0.8419,0.0098,28.0,0.0078,True
+CB,2_Lindt,Naive Bayes,Push / Pull,Reach,7,0.7831,0.0196,28.0,0.0078,True
+CB,2_Lindt,Naive Bayes,Dominant,Init,7,0.8461,0.0249,28.0,0.0078,True
+CB,2_Lindt,Naive Bayes,Dominant,Reach,7,0.8886,0.0211,28.0,0.0078,True
+CB,2_Lindt,Naive Bayes,Center,Init,7,0.7794,0.0121,28.0,0.0078,True
+CB,2_Lindt,Naive Bayes,Center,Reach,6,0.772,0.0157,21.0,0.0156,True
+CB,2_Lindt,Naive Bayes,Non-dominant,Init,7,0.8177,0.0261,28.0,0.0078,True
+CB,2_Lindt,Naive Bayes,Non-dominant,Reach,7,0.8773,0.0161,28.0,0.0078,True
+CB,2_Lindt,Kalman,Push / Pull,Init,7,0.8442,0.009,28.0,0.0078,True
+CB,2_Lindt,Kalman,Push / Pull,Reach,7,0.8375,0.0145,28.0,0.0078,True
+CB,2_Lindt,Kalman,Dominant,Init,7,0.8598,0.0241,28.0,0.0078,True
+CB,2_Lindt,Kalman,Dominant,Reach,7,0.9127,0.0159,28.0,0.0078,True
+CB,2_Lindt,Kalman,Center,Init,7,0.7946,0.0164,28.0,0.0078,True
+CB,2_Lindt,Kalman,Center,Reach,6,0.7923,0.0169,21.0,0.0156,True
+CB,2_Lindt,Kalman,Non-dominant,Init,7,0.8332,0.0228,28.0,0.0078,True
+CB,2_Lindt,Kalman,Non-dominant,Reach,7,0.89,0.0224,28.0,0.0078,True
+CB,4_Milka,SVM,Push / Pull,Init,4,0.8479,0.0175,10.0,0.0625,False
+CB,4_Milka,SVM,Push / Pull,Reach,4,0.8045,0.0264,10.0,0.0625,False
+CB,4_Milka,SVM,Dominant,Init,4,0.8455,0.0414,10.0,0.0625,False
+CB,4_Milka,SVM,Dominant,Reach,4,0.8456,0.0411,10.0,0.0625,False
+CB,4_Milka,SVM,Center,Init,5,0.7392,0.0298,15.0,0.0312,True
+CB,4_Milka,SVM,Center,Reach,4,0.755,0.0277,10.0,0.0625,False
+CB,4_Milka,SVM,Non-dominant,Init,4,0.7376,0.0185,10.0,0.0625,False
+CB,4_Milka,SVM,Non-dominant,Reach,3,0.7552,0.0468,6.0,0.125,False
+CB,4_Milka,LDA,Push / Pull,Init,4,0.8499,0.0157,10.0,0.0625,False
+CB,4_Milka,LDA,Push / Pull,Reach,4,0.7547,0.0453,10.0,0.0625,False
+CB,4_Milka,LDA,Dominant,Init,4,0.8327,0.0418,10.0,0.0625,False
+CB,4_Milka,LDA,Dominant,Reach,4,0.8102,0.0507,10.0,0.0625,False
+CB,4_Milka,LDA,Center,Init,5,0.7695,0.0242,15.0,0.0312,True
+CB,4_Milka,LDA,Center,Reach,4,0.7276,0.0311,10.0,0.0625,False
+CB,4_Milka,LDA,Non-dominant,Init,4,0.7469,0.0139,10.0,0.0625,False
+CB,4_Milka,LDA,Non-dominant,Reach,3,0.7505,0.0423,6.0,0.125,False
+CB,4_Milka,Naive Bayes,Push / Pull,Init,4,0.8391,0.015,10.0,0.0625,False
+CB,4_Milka,Naive Bayes,Push / Pull,Reach,4,0.7358,0.0269,10.0,0.0625,False
+CB,4_Milka,Naive Bayes,Dominant,Init,4,0.7906,0.0414,10.0,0.0625,False
+CB,4_Milka,Naive Bayes,Dominant,Reach,4,0.7884,0.0462,10.0,0.0625,False
+CB,4_Milka,Naive Bayes,Center,Init,5,0.7381,0.0172,15.0,0.0312,True
+CB,4_Milka,Naive Bayes,Center,Reach,4,0.7061,0.0206,10.0,0.0625,False
+CB,4_Milka,Naive Bayes,Non-dominant,Init,4,0.7014,0.0096,10.0,0.0625,False
+CB,4_Milka,Naive Bayes,Non-dominant,Reach,3,0.6912,0.029,6.0,0.125,False
+CB,4_Milka,Kalman,Push / Pull,Init,4,0.8314,0.0115,10.0,0.0625,False
+CB,4_Milka,Kalman,Push / Pull,Reach,4,0.7997,0.0289,10.0,0.0625,False
+CB,4_Milka,Kalman,Dominant,Init,4,0.8287,0.0384,10.0,0.0625,False
+CB,4_Milka,Kalman,Dominant,Reach,4,0.8258,0.0315,10.0,0.0625,False
+CB,4_Milka,Kalman,Center,Init,5,0.7605,0.0177,15.0,0.0312,True
+CB,4_Milka,Kalman,Center,Reach,4,0.7566,0.0176,10.0,0.0625,False
+CB,4_Milka,Kalman,Non-dominant,Init,4,0.7405,0.016,10.0,0.0625,False
+CB,4_Milka,Kalman,Non-dominant,Reach,3,0.7531,0.0289,6.0,0.125,False
+CB,5_FerreroRocher,SVM,Push / Pull,Init,4,0.9335,0.0166,10.0,0.0625,False
+CB,5_FerreroRocher,SVM,Push / Pull,Reach,3,0.909,0.0283,6.0,0.125,False
+CB,5_FerreroRocher,SVM,Dominant,Init,4,0.9524,0.0216,10.0,0.0625,False
+CB,5_FerreroRocher,SVM,Dominant,Reach,4,0.9907,0.0051,10.0,0.0625,False
+CB,5_FerreroRocher,SVM,Center,Init,4,0.8715,0.0181,10.0,0.0625,False
+CB,5_FerreroRocher,SVM,Center,Reach,4,0.9077,0.0165,10.0,0.0625,False
+CB,5_FerreroRocher,SVM,Non-dominant,Init,4,0.8706,0.0187,10.0,0.0625,False
+CB,5_FerreroRocher,SVM,Non-dominant,Reach,4,0.9466,0.0142,10.0,0.0625,False
+CB,5_FerreroRocher,LDA,Push / Pull,Init,4,0.9097,0.0258,10.0,0.0625,False
+CB,5_FerreroRocher,LDA,Push / Pull,Reach,3,0.8237,0.0688,6.0,0.125,False
+CB,5_FerreroRocher,LDA,Dominant,Init,4,0.897,0.0482,10.0,0.0625,False
+CB,5_FerreroRocher,LDA,Dominant,Reach,4,0.9156,0.0649,10.0,0.0625,False
+CB,5_FerreroRocher,LDA,Center,Init,4,0.8062,0.0363,10.0,0.0625,False
+CB,5_FerreroRocher,LDA,Center,Reach,4,0.7993,0.0612,10.0,0.0625,False
+CB,5_FerreroRocher,LDA,Non-dominant,Init,4,0.8304,0.033,10.0,0.0625,False
+CB,5_FerreroRocher,LDA,Non-dominant,Reach,4,0.8645,0.0626,10.0,0.0625,False
+CB,5_FerreroRocher,Naive Bayes,Push / Pull,Init,4,0.85,0.0562,10.0,0.0625,False
+CB,5_FerreroRocher,Naive Bayes,Push / Pull,Reach,3,0.875,0.0298,6.0,0.125,False
+CB,5_FerreroRocher,Naive Bayes,Dominant,Init,4,0.9095,0.0278,10.0,0.0625,False
+CB,5_FerreroRocher,Naive Bayes,Dominant,Reach,4,0.965,0.0117,10.0,0.0625,False
+CB,5_FerreroRocher,Naive Bayes,Center,Init,4,0.7911,0.0233,10.0,0.0625,False
+CB,5_FerreroRocher,Naive Bayes,Center,Reach,4,0.8344,0.0224,10.0,0.0625,False
+CB,5_FerreroRocher,Naive Bayes,Non-dominant,Init,4,0.835,0.0164,10.0,0.0625,False
+CB,5_FerreroRocher,Naive Bayes,Non-dominant,Reach,4,0.876,0.0124,10.0,0.0625,False
+CB,5_FerreroRocher,Kalman,Push / Pull,Init,4,0.8958,0.0191,10.0,0.0625,False
+CB,5_FerreroRocher,Kalman,Push / Pull,Reach,3,0.879,0.0283,6.0,0.125,False
+CB,5_FerreroRocher,Kalman,Dominant,Init,4,0.9337,0.0161,10.0,0.0625,False
+CB,5_FerreroRocher,Kalman,Dominant,Reach,4,0.9811,0.0065,10.0,0.0625,False
+CB,5_FerreroRocher,Kalman,Center,Init,4,0.8101,0.0266,10.0,0.0625,False
+CB,5_FerreroRocher,Kalman,Center,Reach,4,0.8505,0.0094,10.0,0.0625,False
+CB,5_FerreroRocher,Kalman,Non-dominant,Init,4,0.8682,0.0076,10.0,0.0625,False
+CB,5_FerreroRocher,Kalman,Non-dominant,Reach,4,0.8857,0.0074,10.0,0.0625,False

@@ -1,0 +1,49 @@
+region,contrast,alignment,decoder_1,decoder_2,peak_BAC_1,peak_BAC_2,winner,W_stat,p_value,significant,n_animals
+BG,Push / Pull,Init,SVM,LDA,0.8037,0.8101,LDA,6.0,0.8125,False,5
+BG,Push / Pull,Init,SVM,Naive Bayes,0.8037,0.8254,Naive Bayes,6.0,0.8125,False,5
+BG,Push / Pull,Init,SVM,Kalman,0.8037,0.8751,Kalman,3.0,0.3125,False,5
+BG,Push / Pull,Init,LDA,Naive Bayes,0.8101,0.8254,Naive Bayes,3.0,0.3125,False,5
+BG,Push / Pull,Init,LDA,Kalman,0.8101,0.8751,Kalman,1.0,0.125,False,5
+BG,Push / Pull,Init,Naive Bayes,Kalman,0.8254,0.8751,Kalman,4.0,0.4375,False,5
+BG,Push / Pull,Reach,SVM,LDA,0.7597,0.6956,SVM,4.0,0.4375,False,5
+BG,Push / Pull,Reach,SVM,Naive Bayes,0.7597,0.7229,SVM,5.0,0.625,False,5
+BG,Push / Pull,Reach,SVM,Kalman,0.7597,0.7619,Kalman,6.0,0.8125,False,5
+BG,Push / Pull,Reach,LDA,Naive Bayes,0.6956,0.7229,Naive Bayes,3.0,0.3125,False,5
+BG,Push / Pull,Reach,LDA,Kalman,0.6956,0.7619,Kalman,1.0,0.125,False,5
+BG,Push / Pull,Reach,Naive Bayes,Kalman,0.7229,0.7619,Kalman,3.0,0.3125,False,5
+BG,Dominant,Init,SVM,LDA,0.8154,0.7306,SVM,0.0,0.0625,False,5
+BG,Dominant,Init,SVM,Naive Bayes,0.8154,0.7758,SVM,0.0,0.0625,False,5
+BG,Dominant,Init,SVM,Kalman,0.8154,0.811,SVM,7.0,1.0,False,5
+BG,Dominant,Init,LDA,Naive Bayes,0.7306,0.7758,Naive Bayes,1.0,0.125,False,5
+BG,Dominant,Init,LDA,Kalman,0.7306,0.811,Kalman,0.0,0.0625,False,5
+BG,Dominant,Init,Naive Bayes,Kalman,0.7758,0.811,Kalman,1.0,0.125,False,5
+BG,Dominant,Reach,SVM,LDA,0.8438,0.7987,SVM,4.0,0.4375,False,5
+BG,Dominant,Reach,SVM,Naive Bayes,0.8438,0.8296,SVM,5.0,0.625,False,5
+BG,Dominant,Reach,SVM,Kalman,0.8438,0.8642,Kalman,6.0,0.8125,False,5
+BG,Dominant,Reach,LDA,Naive Bayes,0.7987,0.8296,Naive Bayes,1.0,0.125,False,5
+BG,Dominant,Reach,LDA,Kalman,0.7987,0.8642,Kalman,0.0,0.0625,False,5
+BG,Dominant,Reach,Naive Bayes,Kalman,0.8296,0.8642,Kalman,3.0,0.3125,False,5
+BG,Center,Init,SVM,LDA,0.7664,0.6748,SVM,0.0,0.0625,False,5
+BG,Center,Init,SVM,Naive Bayes,0.7664,0.7081,SVM,0.0,0.0625,False,5
+BG,Center,Init,SVM,Kalman,0.7664,0.7539,SVM,6.0,0.8125,False,5
+BG,Center,Init,LDA,Naive Bayes,0.6748,0.7081,Naive Bayes,3.0,0.3125,False,5
+BG,Center,Init,LDA,Kalman,0.6748,0.7539,Kalman,0.0,0.0625,False,5
+BG,Center,Init,Naive Bayes,Kalman,0.7081,0.7539,Kalman,0.0,0.0625,False,5
+BG,Center,Reach,SVM,LDA,0.7697,0.6901,SVM,1.0,0.125,False,5
+BG,Center,Reach,SVM,Naive Bayes,0.7697,0.7041,SVM,3.0,0.3125,False,5
+BG,Center,Reach,SVM,Kalman,0.7697,0.7742,Kalman,7.0,1.0,False,5
+BG,Center,Reach,LDA,Naive Bayes,0.6901,0.7041,Naive Bayes,7.0,1.0,False,5
+BG,Center,Reach,LDA,Kalman,0.6901,0.7742,Kalman,0.0,0.0625,False,5
+BG,Center,Reach,Naive Bayes,Kalman,0.7041,0.7742,Kalman,0.0,0.0625,False,5
+BG,Non-dominant,Init,SVM,LDA,0.7808,0.6873,SVM,0.0,0.0625,False,5
+BG,Non-dominant,Init,SVM,Naive Bayes,0.7808,0.7457,SVM,0.0,0.0625,False,5
+BG,Non-dominant,Init,SVM,Kalman,0.7808,0.768,SVM,4.0,0.4375,False,5
+BG,Non-dominant,Init,LDA,Naive Bayes,0.6873,0.7457,Naive Bayes,1.0,0.125,False,5
+BG,Non-dominant,Init,LDA,Kalman,0.6873,0.768,Kalman,0.0,0.0625,False,5
+BG,Non-dominant,Init,Naive Bayes,Kalman,0.7457,0.768,Kalman,1.0,0.125,False,5
+BG,Non-dominant,Reach,SVM,LDA,0.8027,0.7327,SVM,1.0,0.125,False,5
+BG,Non-dominant,Reach,SVM,Naive Bayes,0.8027,0.7671,SVM,5.0,0.625,False,5
+BG,Non-dominant,Reach,SVM,Kalman,0.8027,0.7901,SVM,5.0,0.625,False,5
+BG,Non-dominant,Reach,LDA,Naive Bayes,0.7327,0.7671,Naive Bayes,0.0,0.0625,False,5
+BG,Non-dominant,Reach,LDA,Kalman,0.7327,0.7901,Kalman,0.0,0.0625,False,5
+BG,Non-dominant,Reach,Naive Bayes,Kalman,0.7671,0.7901,Kalman,4.0,0.4375,False,5
